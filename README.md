@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-<h1 align="center">Hi 👋, I'm Sriram Radhakrishna</h1>
+<h1 align="center">Hello there 👋, I'm Sriram Radhakrishna</h1>
 <h3 align="center">Currently an undergraduate student pursuing a B.Tech in Computer Science at PES University, interested in making a career for myself in Robotics & Computer Vision for Industrial Automation. I am competitive, good at teaching & communicating with others and enjoy organizing my work to be as efficient as possible. I am currently working on my improving my leadership skills by taking on more team projects relevant to my career interests. My hobbies include teaching the violin, working on methods to automate mundane chores (usually by means of simple python scripts and Arduino sketches) and reading science-fiction, current affairs, biographies & self-help books. My sport of choice is long distance swimming.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sr42-dev" alt="sr42-dev" /></a> </p>
