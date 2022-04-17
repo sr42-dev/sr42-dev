@@ -85,7 +85,7 @@ Feel free to contact me in case of any doubts or discrepancies.
 <a href="https://github.com/SR42-dev">
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://sriram.radhakrishna42@gmail.com">
+<a href="sriram.radhakrishna42@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></br>
 
