@@ -75,7 +75,12 @@ To touch upon some of the technical competences that you'll find in these reposi
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-Feel free to contact me in case you have any queries.
+If you'd like to have a conversation about something more theoretical that doesn't involve any code, do check out my blog. Feel free to contact me regarding the same.
+
+### 📝 Blog :
+<a href="https://sriramradhakrishna42.wixsite.com/sr42">
+  <img alt="Wix Blog" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
+</a>
 
 ### ☎️ Contact information :
 #### Professional points of contact -
@@ -99,12 +104,6 @@ Feel free to contact me in case you have any queries.
 <a href="https://in.pinterest.com/sriram_radhakrishna42/">
   <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"/>
 </a>
-
-### 📝 Blog :
-<a href="https://sriramradhakrishna42.wixsite.com/sr42">
-  <img alt="Wix Blog" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
-</a>
-
 
 <!--
 **SR42-dev/SR42-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
