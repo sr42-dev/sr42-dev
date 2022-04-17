@@ -2,10 +2,10 @@
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
+An appreciator of a good plate of Mysore-Bengaluru highway maddur vade, chutney and a cup of hot filter coffee, I have a natural interest in the physical interaction of machines and the real world along with the intelligence that drives them.
+
 [![Sriram's GitHub Banner](./banner.jpg)](https://www.artstation.com/artwork/oAoL9z)
 Picture credits : Max Hay (https://www.artstation.com/max_v_hay)
-
-An appreciator of a good plate of Mysore-Bengaluru highway maddur vade, chutney and a cup of hot filter coffee, I have a natural interest in the physical interaction of machines and the real world along with the intelligence that drives them.
 
 For all intents and purposes, this account is my private yard dump where I document all my personal (and to a degree, professional) projects and keep track of their associated source codes. However, I've found that quite a few people, including myself, have a need to reference recurring code snippets from a lot of these repositories and as such, I've decided to make them all public. If you don't find a repository that's supposed to be there, there's a good chance it's not viable for public disclosure at the moment.
 
