@@ -8,6 +8,18 @@ An appreciator of a good plate of Mysore-Bengaluru highway maddur vade, chutney 
 [![Sriram's GitHub Banner](./banner.jpg)](https://www.artstation.com/artwork/oAoL9z)
 Picture credits : [Max Hay](https://www.artstation.com/max_v_hay)
 
+For all intents and purposes, this account is a private yard dump where I document all my personal (and to a degree, professional) projects & skills, and keep track of their associated source codes. However, I've found that quite a few people, including myself, have a recurring need to reference code snippets from a lot of these repositories and as such, I've decided to publicize them. If you don't find a repository that's supposed to be here, there's a good chance it's not viable for public disclosure at the moment.
+
+### 🏆 GitHub User Statistics :
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SR42-dev&count_private=true&theme=react&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&langs_count=5&theme=react)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 To touch upon some of the technical competences that you'll find in these repositories and the subjects that I'd look forward to having a discussion on ...
 
 ### 💻 Languages
@@ -62,18 +74,6 @@ To touch upon some of the technical competences that you'll find in these reposi
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
-For all intents and purposes, this account is a private yard dump where I document all my personal (and to a degree, professional) projects & skills, and keep track of their associated source codes. However, I've found that quite a few people, including myself, have a recurring need to reference code snippets from a lot of these repositories and as such, I've decided to publicize them. If you don't find a repository that's supposed to be here, there's a good chance it's not viable for public disclosure at the moment.
-
-### 🏆 GitHub User Statistics :
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SR42-dev&count_private=true&theme=react&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&langs_count=5&theme=react)]()
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react)](https://git.io/streak-stats)
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Feel free to contact me in case you have any queries.
 
