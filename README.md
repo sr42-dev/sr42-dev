@@ -1,5 +1,16 @@
 ### Hello there 👋
 
+I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
+
+[![Sriram's GitHub Banner](./banner.jpg)](https://www.artstation.com/artwork/oAoL9z)
+Picture credits : Max Hay (https://www.artstation.com/max_v_hay)
+
+An appreciator of a good plate of Mysore-Bengaluru highway maddur vade, chutney and a cup of hot filter coffee, I have a natural interest in the physical interaction of machines and the real world along with the intelligence that drives them.
+
+For all intents and purposes, this account is my personal yard dump where I document all my personal (and to a degree, professional) projects and keep track of their associated source codes. I've found that quite a few people, including myself, have a need to reference recurring code snippets from a lot of these repositories and as such, I've decided to make them all public. If you don't find a repository that's supposed to be there, there's a good chance it's private and not viable for public disclosure at the moment.
+
+Feel free to contact me in case of any doubts or discrepancies.
+
 <!--
 **SR42-dev/SR42-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,8 +22,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📄 Know about my experiences: ...
 -->
 
 <!--
