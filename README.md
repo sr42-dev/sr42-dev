@@ -8,7 +8,8 @@ An appreciator of a fresh plate of Mysore highway maddur vade and a cup of hot f
 [![Sriram's GitHub Banner](./banner.jpg)](https://www.artstation.com/artwork/oAoL9z)
 Artwork credits : [Max Hay](https://www.artstation.com/max_v_hay)
 
-For all intents and purposes, this account is a private yard dump where I document all my personal (and to a degree, professional) projects & skills to keep track of their associated source codes. However, I've found that quite a few people including myself, have had a recurring need to reference code snippets from a lot of these repositories. As such, I've decided to publicize them. If you don't find a repository that's supposed to be here, there's a good chance it's not viable for public disclosure at the moment.
+For all intents and purposes, this account is a private yard dump where I document all my personal (and to a degree, professional) projects & skills to keep track of their associated source codes. However, I've found that quite a few people including myself, have had a recurring need to reference code snippets from a lot of these repositories. As such, I've decided to publicize them. 
+If you don't find a repository that's supposed to be here, there's a good chance it's not viable for public disclosure at the moment.
 
 ### 🏆 GitHub User Statistics :
 
