@@ -9,7 +9,43 @@ An appreciator of a good plate of Mysore-Bengaluru highway maddur vade, chutney 
 
 For all intents and purposes, this account is my personal yard dump where I document all my personal (and to a degree, professional) projects and keep track of their associated source codes. I've found that quite a few people, including myself, have a need to reference recurring code snippets from a lot of these repositories and as such, I've decided to make them all public. If you don't find a repository that's supposed to be there, there's a good chance it's private and not viable for public disclosure at the moment.
 
+### 🏆 GitHub User Statistics :
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SR42-dev&count_private=true&theme=react&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&langs_count=5&theme=react)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 Feel free to contact me in case of any doubts or discrepancies.
+
+### ☎️ Contact information :
+#### Professional points of contact -
+<a href="https://www.linkedin.com/in/sriram-radhakrishna/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?"/>
+</a>
+<a href="https://github.com/SR42-dev">
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://sriram.radhakrishna42@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+#### Personal points of contact -
+<a href="https://www.instagram.com/sriram_radhakrishna42/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/channel/UC-0S61jIRwGjAQswqviHqrg">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>
+<a href="https://in.pinterest.com/sriram_radhakrishna42/">
+  <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"/>
+</a>
+<a href="https://sriramradhakrishna42.wixsite.com/sr42">
+  <img alt="Wix Blog" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
+</a>
+
 
 <!--
 **SR42-dev/SR42-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
