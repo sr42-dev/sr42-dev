@@ -2,7 +2,7 @@
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
-An appreciator of a good plate of Mysore highway maddur vade, chutney and some hot filter coffee, I have a natural interest in the physical interaction of machines and the real world as well as the intelligence that drives them.
+An appreciator of a fresh plate of Mysore highway maddur vade and a cup of hot filter coffee, I have a natural interest in the physical interaction of machines and the real world as well as the intelligence that drives them.
 
 
 [![Sriram's GitHub Banner](./banner.jpg)](https://www.artstation.com/artwork/oAoL9z)
