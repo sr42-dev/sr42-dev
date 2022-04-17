@@ -8,7 +8,7 @@ An appreciator of a good plate of Mysore-Bengaluru highway maddur vade, chutney 
 [![Sriram's GitHub Banner](./banner.jpg)](https://www.artstation.com/artwork/oAoL9z)
 Picture credits : [Max Hay](https://www.artstation.com/max_v_hay)
 
-To touch upon the technical competences that you'll find in these repositories and the subjects that I'd look forward to having a discussion on ...
+To touch upon some of the technical competences that you'll find in these repositories and the subjects that I'd look forward to having a discussion on ...
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
