@@ -31,7 +31,8 @@ Feel free to contact me in case of any doubts or discrepancies.
 </a>
 <a href="https://sriram.radhakrishna42@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a></br>
+
 #### Personal points of contact -
 <a href="https://www.instagram.com/sriram_radhakrishna42/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
