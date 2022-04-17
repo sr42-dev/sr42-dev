@@ -105,7 +105,7 @@ If you'd like to have a conversation about something more theoretical that doesn
 <a href="https://www.instagram.com/sriram_radhakrishna42/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="discordapp.com/users/531829555325829143">
+<a href="https://discordapp.com/users/531829555325829143">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/channel/UC-0S61jIRwGjAQswqviHqrg">
