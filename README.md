@@ -75,7 +75,7 @@ To touch upon some of the technical competences that you'll find in these reposi
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-If you'd like to have a conversation about something more theoretical that doesn't involve any code, do check out my blog. Feel free to contact me regarding the same.
+If you'd like to have a conversation about something more theoretical that doesn't involve any code, do check out my blog and feel free to contact me regarding the same.
 
 ### 📝 Blog :
 <a href="https://sriramradhakrishna42.wixsite.com/sr42">
