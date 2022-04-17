@@ -75,7 +75,7 @@ For all intents and purposes, this account is a private yard dump where I docume
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Feel free to contact me in case of any doubts or discrepancies.
+Feel free to contact me in case you have any queries.
 
 ### ☎️ Contact information :
 #### Professional points of contact -
