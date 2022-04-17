@@ -16,6 +16,8 @@ For all intents and purposes, this account is a private yard dump where I docume
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&langs_count=5&theme=react)]()
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
