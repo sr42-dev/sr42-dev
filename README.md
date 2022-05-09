@@ -5,7 +5,7 @@ I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 An appreciator of a fresh plate of Mysore highway maddur vade and a cup of hot filter coffee, I have a natural interest in the physical interaction between machines and the real world as well as the intelligence that drives them.
 
 <link rel="stylesheet" src="./styles.css">
-[![Sriram's GitHub Banner](./banner.jpg)](https://www.artstation.com/artwork/oAoL9z){.style}
+[![Sriram's GitHub Banner](./banner.jpg)](https://www.artstation.com/artwork/oAoL9z){.imageStyle}
 Artwork credits : [Max Hay](https://www.artstation.com/max_v_hay)
 
 For all intents and purposes, this account is a private yard dump where I document all my personal (and to a degree, professional) projects & skills to keep track of their associated source codes. However, I've found that quite a few people including myself, have had a recurring need to reference code snippets from a lot of these repositories. As such, I've decided to publicize them. 
