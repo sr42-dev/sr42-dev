@@ -14,7 +14,7 @@ If you don't find a repository that's supposed to be here, there's a good chance
 ### 🏆 GitHub User Statistics :
 
 <p align="center">
-    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&layout=compact&show_icons=true&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&layout=compact&show_icons=true&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats"></img>
 </p>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SR42-dev&count_private=true&theme=react&showicons=true)]()
