@@ -14,12 +14,12 @@ If you don't find a repository that's supposed to be here, there's a good chance
 ### 🏆 GitHub User Statistics :
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&count_private=true&layout=compact&show_icons=true&theme=react-dark)](https://github.com/DenverCoder1/github-readme-streak-stats"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&count_private=true&layout=compact&show_icons=true&theme=react"></img>
 </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SR42-dev&count_private=true&theme=react-dark&showicons=true)]()
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react-dark)](https://git.io/streak-stats)
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SR42-dev&count_private=true&theme=react&showicons=true)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react)]
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)]
 
 To touch upon some of the technical competences that you'll find in these repositories and the subjects that I'd look forward to having a discussion on ...
 
