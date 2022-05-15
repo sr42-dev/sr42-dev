@@ -19,6 +19,7 @@ If you don't find a repository that's supposed to be here, there's a good chance
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SR42-dev&count_private=true&theme=react&showicons=true)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react)]()
+
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)]()
 
 To touch upon some of the technical competences that you'll find in these repositories and the subjects that I'd look forward to having a discussion on ...
