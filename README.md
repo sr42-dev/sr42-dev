@@ -14,11 +14,8 @@ If you don't find a repository that's supposed to be here, there's a good chance
 ### 🏆 GitHub User Statistics :
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SR42-dev&count_private=true&theme=react&showicons=true)]()
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&layout=compact&show_icons=true&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react)](https://git.io/streak-stats)
-
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 To touch upon some of the technical competences that you'll find in these repositories and the subjects that I'd look forward to having a discussion on ...
@@ -115,3 +112,7 @@ If you'd like to have a conversation about something more theoretical that doesn
 <a href="https://in.pinterest.com/sriram_radhakrishna42/">
   <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"/>
 </a>
+
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=your-github-SR42-dev&color=blue"></img>
+</p>
