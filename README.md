@@ -16,6 +16,7 @@ If you don't find a repository that's supposed to be here, there's a good chance
 <p align="center">
     [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&layout=compact&show_icons=true&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </p>
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SR42-dev&count_private=true&theme=react&showicons=true)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react)](https://git.io/streak-stats)
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
