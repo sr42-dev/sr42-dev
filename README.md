@@ -121,4 +121,4 @@ If you'd like to have a conversation about something more theoretical that doesn
 </br>
 </br>
 
-Disclaimer : This is not a resume. The subjects listed above are merely learning interests and their listing on this README is not necessarily an indication of experience or skill.
+Disclaimer : This is not a resume. The subjects featured above are merely learning interests and their listing on this README is not necessarily an indication of experience or skill.
