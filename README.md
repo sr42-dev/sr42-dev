@@ -18,8 +18,10 @@ If you don't find a repository that's supposed to be here, there's a good chance
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR42-dev&count_private=true&layout=compact&show_icons=true&theme=react"></img>
 </p>
 
-[![GitHub Stats]([https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark](https://github-readme-stats.vercel.app/api?username=SR42-dev&count_private=true&theme=react&showicons=true))]()
-[![GitHub Activity]([https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark](https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react))]()
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SR42-dev&count_private=true&theme=react&showicons=true"></img>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react"></img>
+</p>
 
 <!-- [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)]() -->
 
