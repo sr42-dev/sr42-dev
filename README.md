@@ -4,9 +4,6 @@ I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
 An appreciator of a fresh plate of Mysore highway maddur vade and a cup of hot filter coffee, I have a natural interest in the physical interaction between machines and the real world as well as the intelligence that drives them.
 
-[![Sriram's GitHub Banner](./banner.jpg)](https://www.artstation.com/artwork/oAoL9z)
-Artwork credits : [Max Hay](https://www.artstation.com/max_v_hay)
-
 While I do utilize it for development purposes, this account was initially intended to be a private chest where I documented all my personal (and to a degree, professional) projects & skills to keep track of their associated source codes. However, I've found that quite a few people including myself, have had a recurring need to reference code snippets from a lot of these repositories. As such, I've decided to publicize them. 
 
 If you don't find a repository that's supposed to be here, there's a good chance it's not viable for public disclosure at the moment.
@@ -86,13 +83,6 @@ To touch upon some of the technical competences that you'll find in these reposi
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-
-If you'd like to have a conversation about something more theoretical that doesn't involve any code, do check out my blog.
-
-### 📝 Blog :
-<a href="https://sriramradhakrishna42.wixsite.com/sr42">
-  <img alt="Wix Blog" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
-</a>
 
 ### ☎️ Contact information :
 #### Professional points of contact -
