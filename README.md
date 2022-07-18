@@ -12,6 +12,8 @@ While I do utilize it for development purposes, this account was initially inten
 
 If you don't find a repository that's supposed to be here, there's a good chance it's not viable for public disclosure at the moment.
 
+<!--
+
 ### 🏆 GitHub User Statistics :
 
 <p align="center">
@@ -22,6 +24,8 @@ If you don't find a repository that's supposed to be here, there's a good chance
     <img src="https://github-readme-stats.vercel.app/api?username=SR42-dev&count_private=true&theme=react&showicons=true"></img>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SR42-dev&theme=react"></img>
 </p>
+
+-->
 
 <!-- [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)]() -->
 
