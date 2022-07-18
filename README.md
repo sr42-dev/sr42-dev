@@ -29,7 +29,7 @@ If you don't find a repository that's supposed to be here, there's a good chance
 
 <!-- [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SR42-dev&theme=react-dark)]() -->
 
-To touch upon some of the technical competences that you'll find in these repositories and the subjects that I'd look forward to having a discussion on ...
+To touch upon some of my technical competences and the subjects that I'd look forward to having a discussion on ...
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
