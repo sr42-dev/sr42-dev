@@ -1,7 +1,6 @@
 ## Hello there 👋
 
-![](/helloThere.gif)  
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
+![https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes](/helloThere.gif) 
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
