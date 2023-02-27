@@ -100,7 +100,7 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-If you'd like to have a conversation about something more theoretical that doesn't involve any code, do check out my blog.
+If you'd like to have a conversation about something more theoretical that doesn't involve any code, do check out my (probably defunct) blog.
 
 ### 📝 Blog :
 <a href="https://sriramradhakrishna42.wixsite.com/sr42">
