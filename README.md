@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![Stars](./stars.gif) 
+<img src="./stars.gif" width="960" height="540"/>
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
