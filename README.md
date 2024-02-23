@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes](/helloThere.gif) 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/9bTjZrytydVRK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/space-stars-9bTjZrytydVRK">via GIPHY</a></p>
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
