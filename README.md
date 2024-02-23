@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-<img src="./stars.gif" width="960" height="540"/>
+<img src="./stars.gif" width="960" height="250"/>
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
