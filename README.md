@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-<iframe src="/stars.gif" width="960" height="540" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-stars-9bTjZrytydVRK">via GIPHY</a></p>
+[Stars](/stars.gif) 
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
