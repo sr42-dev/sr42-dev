@@ -66,7 +66,10 @@ To touch upon some of my technical competences and the subjects that I'd look fo
 
 If you'd like to have a conversation about something more theoretical that doesn't involve any code, do check out my (probably defunct) blog.
 
-### 📝 Blog :
+### 📝 Research Publications and Blogs :
+<a href="https://scholar.google.com/citations?user=fLJrYawAAAAJ&hl=en">
+  <img alt="Google Scholar" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
+</a>
 <a href="https://sriramradhakrishna42.wixsite.com/sr42">
   <img alt="Wix Blog" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
 </a>
@@ -74,7 +77,7 @@ If you'd like to have a conversation about something more theoretical that doesn
 ### ☎️ Contact information :
 #### Professional points of contact -
 <a href="https://www.linkedin.com/in/sriram-radhakrishna/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?"/>
+  <img alt="Google Scholar" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 <a href="https://github.com/SR42-dev">
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -98,5 +101,3 @@ If you'd like to have a conversation about something more theoretical that doesn
 </a>
 </br>
 </br>
-
-Disclaimer : This is not a resume. The subjects featured above are merely learning interests and their listing on this README is not necessarily an indication of experience or skill.
