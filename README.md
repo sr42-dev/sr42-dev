@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-[https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes](./helloThere.gif) 
+![https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes](./helloThere.gif) 
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
