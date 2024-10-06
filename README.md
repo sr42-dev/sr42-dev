@@ -4,7 +4,7 @@
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
-To touch upon some of my technical competences and the subjects that I'd look forward to having a discussion on ...
+To touch upon some of my technical interests and subjects that I'd look forward to having a discussion on ...
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
