@@ -4,8 +4,6 @@
 
 I'm Sriram Radhakrishna. Welcome to my GitHub profile :)
 
-To touch upon some of my technical interests and subjects that I'd look forward to having a discussion on ...
-
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,9 +25,6 @@ To touch upon some of my technical interests and subjects that I'd look forward 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-If you'd like to have a conversation about something more theoretical that doesn't involve any code ...
 
 ### 📝 Research Publications and Blogs :
 <a href="https://scholar.google.com/citations?user=fLJrYawAAAAJ&hl=en">
